@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`A Paragraph tag adds the extraSmall modifier 1`] = `
+<p
+  className="sc-bdVaJa gYjnOM"
+>
+  A paragraph
+</p>
+`;
+
+exports[`A Paragraph tag adds the fontWeightBold modifier 1`] = `
+<p
+  className="sc-bdVaJa fNqJPA"
+>
+  A paragraph
+</p>
+`;
+
+exports[`A Paragraph tag adds the italic modifier 1`] = `
+<p
+  className="sc-bdVaJa dSDadT"
+>
+  A paragraph
+</p>
+`;
+
+exports[`A Paragraph tag adds the large modifier 1`] = `
+<p
+  className="sc-bdVaJa iHluKy"
+>
+  A paragraph
+</p>
+`;
+
+exports[`A Paragraph tag adds the small modifier 1`] = `
+<p
+  className="sc-bdVaJa iRqVHv"
+>
+  A paragraph
+</p>
+`;
+
+exports[`A Paragraph tag renders correctly 1`] = `
+<p
+  className="sc-bdVaJa fNqJPA"
+>
+  A paragraph tag
+</p>
+`;
