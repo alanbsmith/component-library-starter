@@ -1,0 +1,85 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Icon Element adds the chrome000 modifier 1`] = `
+.c0 {
+  color: #424242;
+  font-size: 1.25rem;
+  color: #FFFFFF;
+}
+
+<span
+  aria-hidden={true}
+  className="fa fa-home c0"
+  modifiers={
+    Array [
+      "chrome000",
+    ]
+  }
+/>
+`;
+
+exports[`Icon Element adds the extraSmall modifier 1`] = `
+.c0 {
+  color: #424242;
+  font-size: 1.25rem;
+  font-size: 0.75rem;
+}
+
+<span
+  aria-hidden={true}
+  className="fa fa-home c0"
+  modifiers={
+    Array [
+      "extraSmall",
+    ]
+  }
+/>
+`;
+
+exports[`Icon Element adds the large modifier 1`] = `
+.c0 {
+  color: #424242;
+  font-size: 1.25rem;
+  font-size: 1.5rem;
+}
+
+<span
+  aria-hidden={true}
+  className="fa fa-home c0"
+  modifiers={
+    Array [
+      "large",
+    ]
+  }
+/>
+`;
+
+exports[`Icon Element adds the small modifier 1`] = `
+.c0 {
+  color: #424242;
+  font-size: 1.25rem;
+  font-size: 1rem;
+}
+
+<span
+  aria-hidden={true}
+  className="fa fa-home c0"
+  modifiers={
+    Array [
+      "small",
+    ]
+  }
+/>
+`;
+
+exports[`Icon Element renders correctly 1`] = `
+.c0 {
+  color: #424242;
+  font-size: 1.25rem;
+}
+
+<span
+  aria-hidden={true}
+  className="fa fa-home c0"
+/>
+`;
