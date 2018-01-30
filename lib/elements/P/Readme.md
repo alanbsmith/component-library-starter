@@ -1,6 +1,5 @@
 P is our basic paragraph text element. It's good to use when you have a lot to say. It has four sizes: extraSmall, small, medium (default), and large. It also has a four font weights available: light, normal (default), medium, and bold.
 
-
 ```jsx
 <div>
   <h5>EXTRA SMALL</h5>

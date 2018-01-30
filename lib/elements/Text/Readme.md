@@ -1,5 +1,4 @@
 
-##### DESCRIPTION
 This is our basic text element. It's styled exactly like P, but is intended for single words or short phrases. It has four sizes: extraSmall, small, medium (default), and large. It also has a four font weights available: light, normal (default), medium, and bold. You can use it on its own, or extend the styles in a block.
 
 
