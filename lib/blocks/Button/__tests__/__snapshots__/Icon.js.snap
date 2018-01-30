@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Icon Element adds the left modifier 1`] = `
+.c0 {
+  font-size: 24px;
+  padding-right: 0.5rem;
+}
+
+.c1 {
+  color: #424242;
+  font-size: 1.25rem;
+}
+
+<span
+  aria-hidden={true}
+  className="fa fa-home c0 c1"
+  modifiers={
+    Array [
+      "left",
+    ]
+  }
+/>
+`;
+
+exports[`Icon Element adds the right modifier 1`] = `
+.c0 {
+  font-size: 24px;
+  padding-left: 0.5rem;
+}
+
+.c1 {
+  color: #424242;
+  font-size: 1.25rem;
+}
+
+<span
+  aria-hidden={true}
+  className="fa fa-home c0 c1"
+  modifiers={
+    Array [
+      "right",
+    ]
+  }
+/>
+`;
+
+exports[`Icon Element renders correctly 1`] = `
+.c0 {
+  font-size: 24px;
+}
+
+.c1 {
+  color: #424242;
+  font-size: 1.25rem;
+}
+
+<span
+  aria-hidden={true}
+  className="fa fa-home c0 c1"
+/>
+`;

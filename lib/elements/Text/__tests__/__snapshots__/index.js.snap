@@ -1,82 +1,82 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`P Element adds the extraSmall modifier 1`] = `
+exports[`Text Element adds the extraSmall modifier 1`] = `
 .c0 {
   font-size: 1rem;
   margin: 0;
   font-size: 0.75rem;
 }
 
-<p
+<span
   className="c0"
 >
-  A paragraph
-</p>
+  Some Text
+</span>
 `;
 
-exports[`P Element adds the fontWeightBold modifier 1`] = `
+exports[`Text Element adds the fontWeightBold modifier 1`] = `
 .c0 {
   font-size: 1rem;
   margin: 0;
 }
 
-<p
+<span
   className="c0"
 >
-  A paragraph
-</p>
+  Some Text
+</span>
 `;
 
-exports[`P Element adds the italic modifier 1`] = `
+exports[`Text Element adds the italic modifier 1`] = `
 .c0 {
   font-size: 1rem;
   margin: 0;
 }
 
-<p
+<span
   className="c0"
 >
-  A paragraph
-</p>
+  Some Text
+</span>
 `;
 
-exports[`P Element adds the large modifier 1`] = `
+exports[`Text Element adds the large modifier 1`] = `
 .c0 {
   font-size: 1rem;
   margin: 0;
   font-size: 1.125rem;
 }
 
-<p
+<span
   className="c0"
 >
-  A paragraph
-</p>
+  Some Text
+</span>
 `;
 
-exports[`P Element adds the small modifier 1`] = `
+exports[`Text Element adds the small modifier 1`] = `
 .c0 {
   font-size: 1rem;
   margin: 0;
   font-size: 0.875rem;
 }
 
-<p
+<span
   className="c0"
 >
-  A paragraph
-</p>
+  Some Text
+</span>
 `;
 
-exports[`P Element renders correctly 1`] = `
+exports[`Text Element renders correctly 1`] = `
 .c0 {
   font-size: 1rem;
   margin: 0;
 }
 
-<p
+<span
   className="c0"
 >
-  A paragraph tag
-</p>
+  Some Text
+</span>
 `;
